@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-monitoring-with-prometheus-grafana",
+  "version": "1.0.0",
+  "description": "This repository contains documentation and code for setting up monitoring of NodeJS application with Prometheus and Grafana.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bijay-05/nodejs-monitoring-with-prometheus-grafana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bijay-05/nodejs-monitoring-with-prometheus-grafana/issues"
+  },
+  "homepage": "https://github.com/bijay-05/nodejs-monitoring-with-prometheus-grafana#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "prom-client": "^15.1.3"
+  }
+}
